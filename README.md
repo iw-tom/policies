@@ -16,7 +16,7 @@ So once you’ve read and understood these policies we’d really like you to ac
 
 Sound good? OK let’s get started!!
 
-> [ISO 270001](https://github.com/infinityworks/isms/blob/master/README.md)
+> [ISO 27001](/ISO-27001)
 
 ## Why are we implementing ISO9001?
 
@@ -24,4 +24,4 @@ Infinity Works Consulting Ltd (the ‘Organisation’) aims to provide defect fr
 
 The Organisation operates a Quality Management System that has gained BS EN ISO 9001 : 2015 certification, including aspects specific to the provision of IT services and software development.
 
-> [ISO 90001](https://github.com/infinityworks/iso9001-quality-policy/blob/master/README.md)
+> [ISO 90001](/ISO-9001)
