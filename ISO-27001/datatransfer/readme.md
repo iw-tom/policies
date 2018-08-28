@@ -5,8 +5,7 @@ Data can potentially be transferred in a wide variety of media and methods both
 into and out of our company, in electronic and/or paper format. In every transfer
 there is a risk that the information may be lost, misappropriated or accidentally
 released. Where this data is controlled data, this represents a risk to our company
-of breaching our responsibilities under the DPA and could lead to regulatory
-action, including significant fines.
+of breaching our responsibilities under the the General Data Protection Regulation (EU) 2016/679 ("GDPR") and could lead to regulatory action, including significant fines.
 
 ### 2. Purpose and scope
 This policy lays out the practical methods that need to be applied in undertaking
@@ -146,12 +145,11 @@ You must check, as part of information management due diligence that any
 service providers you procure are not planning to process personal data outside
 the EEA. E.g. some service providers may use cloud based systems for data
 storage which are not UK based.
-Principle Eight of the Data Protection Act 1998 (DPA), requires that personal
-data must not be transferred to a country or territory outside the European
+GDPR requires that personal data must not be transferred to a country or territory outside the European
 Economic Area (EEA) unless the country or territory can provide an adequate
 level of protection for the rights and freedoms of the individuals whose data is
 being transferred.
-It is important to note that all other principles of the Data Protection Act are still
+It is important to note that all other principles of GDPR are still
 relevant and must be complied with.
 
 ### 6. Reporting data incidents
