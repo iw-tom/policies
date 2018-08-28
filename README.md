@@ -24,4 +24,4 @@ Infinity Works Consulting Ltd (the ‘Organisation’) aims to provide defect fr
 
 The Organisation operates a Quality Management System that has gained BS EN ISO 9001 : 2015 certification, including aspects specific to the provision of IT services and software development.
 
-> [ISO 90001](/ISO-9001)
+> [ISO 9001](/ISO-9001)
