@@ -30,7 +30,7 @@ This policy applies to users of the following Infinity Works systems:
 
 - Our policy aims to provide an appropriate balance between respecting your privacy, whilst allowing the necessary monitoring required to meet our business needs and legal obligations.
 
-- We recognise that staff have legitimate expectations that they should be able to keep their personal lives private and that they are entitled to a degree of privacy in the work environment. Our monitoring policy will therefore be undertaken in ways that are consistent with relevant legislation, including the Data Protection Act 1998, the UK Information Commissioner’s Office (ICO) Employment Practices Code, and The Human Rights Act 1998.
+- We recognise that staff have legitimate expectations that they should be able to keep their personal lives private and that they are entitled to a degree of privacy in the work environment. Our monitoring policy will therefore be undertaken in ways that are consistent with relevant legislation, including General Data Protection Regulation (EU) 2016/679 ("GDPR"), the UK Information Commissioner’s Office (ICO) Employment Practices Code, and The Human Rights Act 1998.
 
 - We will also act in accordance with our obligations under the Telecommunications (Lawful Business Practice) (Interpretation of Communications) Regulations 2000.
 
@@ -44,7 +44,7 @@ This policy applies to users of the following Infinity Works systems:
 
 - We log usage of our devices and networks, this data may be utilised when investigating compliance of users to our network policies.
 
-- None of this data contains the content of the communication or the file – only information about the electronic activity. The ‘usage logging’ does not therefore allow Infinity Works monitor or record ‘sensitive personal data’ as defined by the Data Protection Act 1998.
+- None of this data contains the content of the communication or the file – only information about the electronic activity. The ‘usage logging’ does not therefore allow Infinity Works monitor or record ‘sensitive personal data’ as defined by GDPR.
 
 ### Content inspection and authorised access
 
