@@ -79,5 +79,5 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## Related Standards, Policies and Processes
 
-•	[Information Sensitivity Policy]()
-•	[Employee and Contractor Privacy Notice]()
+•	[Information Sensitivity Policy](/ISO-27001/informationsensitivity)
+•	[Employee and Contractor Privacy Notice](/ISO-27001/employeeandcontractorprivacynotice)
