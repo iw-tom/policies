@@ -29,30 +29,30 @@ Thank You!
 
 ## A-Z Policies ##
 
-- [AdoptionPolicy](https://github.com/infinityworks/Policies/tree/master/AdoptionPolicy)
-- [AlcoholandDrugPolicy](https://github.com/infinityworks/Policies/tree/master/AlcoholandDrugPolicy)
-- [Anti-CorruptionAndBriberyPolicy](https://github.com/infinityworks/Policies/tree/master/Anti-CorruptionAndBriberyPolicy)
-- [Change Management Policy](https://github.com/infinityworks/Policies/tree/master/ChangeManagement%20Policy)
-- [Code of Conduct](https://github.com/infinityworks/iso9001-quality-policy/tree/master/code-of-conduct)
-- [Conflict Of Interest](https://github.com/infinityworks/iso9001-quality-policy/tree/master/conflict-of-interest)
-- [CompassionateLeave](https://github.com/infinityworks/Policies/tree/master/Compassionate%20Leave%20Policy)
-- [DataProtectionPolicy](https://github.com/infinityworks/Policies/tree/master/DataProtectionPolicy)
-- [DisciplinaryAndCapabilityPolicy](https://github.com/infinityworks/Policies/tree/master/DisciplinaryAndCapabilityPolicy)
-- [ExpensesPolicy](https://github.com/infinityworks/Policies/tree/master/Expenses%20Policy)
-- [FlexibleWorking](https://github.com/infinityworks/Policies/tree/master/FlexibleWorking)
-- [Gifts and Hospitality Policy](https://github.com/infinityworks/Policies/tree/master/Gifts%20and%20Hospitality)
-- [GrievancePolicy](https://github.com/infinityworks/Policies/tree/master/GrievancePolicy)
-- [HealthandSafetyatWorkPolicy](https://github.com/infinityworks/Policies/tree/master/HealthandSafetyatWorkPolicy)
-- [ItAndCommunicationSystems](https://github.com/infinityworks/Policies/tree/master/ItAndCommunicationSystems)
-- [JuryService](https://github.com/infinityworks/Policies/tree/master/JuryServicePolicy)
-- [LoneWorker]
-- [MaternityPolicy](https://github.com/infinityworks/Policies/tree/master/MaternityPolicy)
-- [PaternityPolicy](https://github.com/infinityworks/Policies/tree/master/PaternityPolicy)
-- [RiskPolicy]
-- [SDLC]
-- [SicknessandAbsencePolicy](https://github.com/infinityworks/Policies/tree/master/SicknessandAbsencePolicy)
-- [Shared Parental Leave Policy]
-- [SocialMedia](https://github.com/infinityworks/Policies/tree/master/SocialMedia)
-- [TimeOffForDependantsPolicy](https://github.com/infinityworks/Policies/tree/master/TimeOffForDependantsPolicy)
-- [TrainingPolicy](https://github.com/infinityworks/Policies/tree/master/TrainingPolicy)
-- [WhistleblowingPolicy](https://github.com/infinityworks/Policies/tree/master/WhistleblowingPolicy)
+- [AdoptionPolicy](AdoptionPolicy/readme.md)
+- [AlcoholandDrugPolicy](AlcoholandDrugPolicy/readme.md)
+- [Anti-CorruptionAndBriberyPolicy](Anti-CorruptionAndBriberyPolicy/readme.md)
+- [Change Management Policy](ChangeManagement%20Policy/readme.md)
+- [Code of Conduct](code-of-conduct/readme.md)
+- [Conflict Of Interest](conflict-of-interest/readme.md)
+- [CompassionateLeave](Compassionate%20Leave%20Policy/readme.md)
+- [DataProtectionPolicy](DataProtectionPolicy/readme.md)
+- [DisciplinaryAndCapabilityPolicy](DisciplinaryAndCapabilityPolicy/readme.md)
+- [ExpensesPolicy](Expenses%20Policy/readme.md)
+- [FlexibleWorking](FlexibleWorking/readme.md)
+- [Gifts and Hospitality Policy](Gifts%20and%20Hospitality/readme.md)
+- [GrievancePolicy](GrievancePolicy/readme.md)
+- [HealthandSafetyatWorkPolicy](HealthandSafetyatWorkPolicy/readme.md)
+- [ItAndCommunicationSystems](ItAndCommunicationSystems/readme.md)
+- [JuryService](JuryServicePolicy/readme.md)
+- [LoneWorker  - Needs Adding]
+- [MaternityPolicy](MaternityPolicy/readme.md)
+- [PaternityPolicy](PaternityPolicy/readme.md)
+- [RiskPolicy  - Needs Adding]
+- [SDLC - Needs Adding]
+- [SicknessandAbsencePolicy](SicknessandAbsencePolicy/readme.md)
+- [Shared Parental Leave Policy  - Needs Adding]
+- [SocialMedia](SocialMedia/readme.md)
+- [TimeOffForDependantsPolicy](TimeOffForDependantsPolicy/readme.md)
+- [TrainingPolicy](TrainingPolicy/readme.md)
+- [WhistleblowingPolicy](WhistleblowingPolicy/readme.md)
