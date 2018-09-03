@@ -101,7 +101,7 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 
 
 ## Acceptance Form 
-(to complete this review please click one of the relevant links below )
+(Please register the completion your Induction or Annual ISO27001 Policy Review by clicking an applicable link below)
 
 * Permanent Employee [click here](https://docs.google.com/forms/d/e/1FAIpQLSfyqxcy6PcsnT7rakh18dXckpDsXL4fmO4k7snyCvsWGZ0Kew/viewform) 
 
