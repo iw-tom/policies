@@ -1,3 +1,4 @@
+
 # Infinity Works Quality Policy
 
 Infinity Works Consulting Ltd (the ‘Organisation’) aims to provide defect free products and services to its customers on time and within budget. 
