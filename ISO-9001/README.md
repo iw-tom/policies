@@ -23,8 +23,6 @@ All personnel understand the requirements of this Quality Policy and abide with 
  
 Copies of the Quality Policy are made available to all members of staff and to relevant interested parties.  Copies of the minutes of Management Reviews, or extracts thereof, are provided to individual members of staff in accordance with their role and responsibilities as a means of communicating the effectiveness of the Quality Management System. 
 
-We ask all staff to read the Quality Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
-
 Thank You!
 
 ## A-Z Policies ##
@@ -56,3 +54,7 @@ Thank You!
 - [TimeOffForDependantsPolicy](TimeOffForDependantsPolicy/readme.md)
 - [TrainingPolicy](TrainingPolicy/readme.md)
 - [WhistleblowingPolicy](WhistleblowingPolicy/readme.md)
+
+
+# Once you have read all the 9001 policies
+We ask all staff to read the Quality Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
