@@ -28,7 +28,7 @@ Thank You!
 ## A-Z Policies ##
 
 - [AdoptionPolicy](AdoptionPolicy/readme.md)
-- [AlcoholandDrugPolicy](AlcoholandDrugPolicy/readme.md)
+- [AlcoholandDrugPolicy](AlcoholandDrugPolicy/README.MD)
 - [Anti-CorruptionAndBriberyPolicy](Anti-CorruptionAndBriberyPolicy/readme.md)
 - [Change Management Policy](ChangeManagement%20Policy/readme.md)
 - [Code of Conduct](code-of-conduct/readme.md)
