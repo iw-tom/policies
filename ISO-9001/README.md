@@ -44,7 +44,7 @@ Thank You!
 - [ItAndCommunicationSystems](ItAndCommunicationSystems/readme.md)
 - [JuryService](JuryServicePolicy/readme.md)
 - [LoneWorker  - Needs Adding]
-- [MaternityPolicy](MaternityPolicy/readme.md)
+- [MaternityPolicy](MaternityPolicy/README.MD)
 - [PaternityPolicy](PaternityPolicy/readme.md)
 - [RiskPolicy  - Needs Adding]
 - [SDLC - Needs Adding]
