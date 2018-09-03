@@ -55,6 +55,6 @@ Thank You!
 - [TrainingPolicy](TrainingPolicy/readme.md)
 - [WhistleblowingPolicy](WhistleblowingPolicy/readme.md)
 
-
-# Once you have read all the 9001 policies
-We ask all staff to read the Quality Manual and associated policies and show acceptance of these by completing the acceptance form [here](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
+## Acceptance Form 
+(Please register the completion your Induction or Annual ISO9001 Policy Review by clicking on link below)
+[Infinity Works Quality Policy Acceptance](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
