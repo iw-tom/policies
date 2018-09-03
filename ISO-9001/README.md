@@ -57,4 +57,5 @@ Thank You!
 
 ## Acceptance Form 
 (Please register the completion your Induction or Annual ISO9001 Policy Review by clicking on link below)
-[Infinity Works Quality Policy Acceptance](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
+
+- [Infinity Works Quality Policy Acceptance](https://docs.google.com/forms/d/e/1FAIpQLSdKhzOxwAoO4OSKSnmSx0_lj9Il-BiCR9dgtIVhTzya8TL2fw/viewform). 
