@@ -40,7 +40,7 @@ Thank You!
 - [FlexibleWorking](FlexibleWorking)
 - [Gifts and Hospitality Policy](Gifts%20and%20Hospitality)
 - [GrievancePolicy](GrievancePolicy)
-- [HealthandSafetyatWorkPolicy](HealthandSafetyatWorkPolicyHealthandSafetyatWorkPolicy)
+- [HealthandSafetyatWorkPolicy](HealthandSafetyatWorkPolicy)
 - [ItAndCommunicationSystems](ItAndCommunicationSystems)
 - [JuryService](JuryServicePolicy)
 - [LoneWorker  - Needs Adding]
