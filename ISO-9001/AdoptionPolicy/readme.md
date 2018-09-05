@@ -31,7 +31,7 @@ within 28 days to tell you your new expected return date.
 Statutory adoption pay (SAP) is payable for up to 39 weeks provided you have at least 26 weeks’ continuous
 employment with us at the end of the Qualifying Week and your average earnings are not less than the lower
 earnings limit set by the government each tax year. It is paid at a rate set by the government each year. For
-further information speak to The [People Team](people@infinityworks.com).
+further information speak to the [People Team](https://intranet.infinityworks.com/key-people/head-office-support).
 ## During adoption leave
 All the terms and conditions of your employment remain in force during OAL and AAL, except for terms relating to
 pay. Annual leave entitlement will continue to accrue at the rate provided under your contract. If your adoption
@@ -41,7 +41,7 @@ time before starting your adoption leave. All holiday dates are subject to appro
 If you are a member of the pension scheme, we shall make employer contributions during OAL and any further
 period of paid adoption leave based on your normal salary, in accordance with the pension scheme rules. Any
 employee contributions you make will be based on the amount of any adoption pay you are receiving, unless you
-inform the [People Team](people@infinityworks.com)that you wish to make up any shortfall.
+inform the [People Team](https://intranet.infinityworks.com/key-people/head-office-support) that you wish to make up any shortfall.
 We may make reasonable contact with you from time to time during your adoption leave although we will keep
 this to a minimum. You may work (including attending training) on up to 10 “keeping-in- touch” days during your
 adoption leave. This is not compulsory and must be discussed and agreed with your Manager. You will be paid at
