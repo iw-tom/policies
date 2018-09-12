@@ -52,7 +52,9 @@ Contact Email: isms@infinityworks.com
 Information Security Roles and Responsibilities [view here](security#information-security-roles-and-responsibilities)
 
 ## Raising Incidents
-In the event of an incident please inform the ISMS Manager who will log all incidents as per the [Security Incident Reporting Policy](securityincidentreporting/readme.md) 
+In the event of an incident please:
+* complete the [Security Incident Reporting Form](https://goo.gl/forms/zvzkPR4eZ6qB6hJh1)
+* inform the ISMS Manager at: isms@infinityworks.com who will ensure all incidents are logged as per the [Security Incident Reporting Policy](securityincidentreporting/readme.md) 
 
 ## Raising Policy Issues
 Feel free to raise issues for the ISMS Committee to discuss via (in order of preference):
