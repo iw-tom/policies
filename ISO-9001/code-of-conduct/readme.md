@@ -19,13 +19,18 @@ All employees should respect their colleagues. We won’t allow any kind of disc
 
 ## Protection of Company Property
 All employees should treat our company’s property, whether material or intangible, with respect and care. 
+
 Employees:
+
 *Shouldn’t misuse company equipment or use it frivolously.
+
 *Should respect all kinds of incorporeal property. This includes trademarks, copyright and other property (information, reports etc.) Employees should use them only to complete their job duties.
+
 *Employees should protect company facilities and other material property from damage and vandalism, whenever possible.
 
 ## Professionalism
 All employees must show integrity and professionalism in the workplace:
+
   * Personal appearance
   
 All employees are allowed to work in our office in smart/casual attire, but will need to follow the dress code of our clients when working or attending their place of work.
@@ -59,17 +64,18 @@ All employees must be open for communication with their colleagues, supervisors 
   
 We expect employees to not abuse their employment benefits. This can refer to time off, insurance, facilities, subscriptions or other benefits our company offers.
 
-  * [Policies](policies.infinityworks.com)
+  * [Policies][https://policies.infinityworks.com/]
   
-All employees should read and follow our company policies. If they have any questions, they should ask their managers or People Operations.
+All employees should read and follow our company policies. If they have any questions, they should ask their managers or the [People Team] [https://intranet.infinityworks.com/key-people/head-office-support]
 
 ## Disciplinary actions
 Our company may have to take disciplinary action against employees who repeatedly or intentionally fail to follow our code of conduct. Disciplinary actions will vary depending on the violation. 
 Possible consequences include:
-* Demotion.
-* Reprimand.
-* Suspension or termination for more serious offenses.
-* Detraction of benefits for a definite or indefinite time.
+
+* Demotion
+* Reprimand
+* Suspension or termination for more serious offenses
+* Detraction of benefits for a definite or indefinite time
 
 We may take legal action in cases of corruption, theft, embezzlement or other unlawful behaviour.
  
