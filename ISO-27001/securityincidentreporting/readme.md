@@ -36,7 +36,7 @@ A response plan should be proposed to deal with potential risk identified. This 
 * Mitigation 
 * Decisions needed
 
-The Security Incident Log can be found [here](https://docs.google.com/spreadsheets/d/1NxIoFZLzkpmQlwXNpvoj3Uyb6-z540l6NrDg8B0yJSs/edit#gid=75233254)
+The Security Incident Log can be found [here](https://docs.google.com/spreadsheets/d/1_QKD6KVw7QlQjOICKCdu8TU4qmdONtrggkTukL22jYA)
  
 It is the responsibility of the [ISMS Committee](../README.md#the-isms-committee) to ensure that an investigation can follow the incident. For example by:
 * Understanding how the incident occurred and what led to the compromise 
