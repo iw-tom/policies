@@ -20,11 +20,11 @@ Capability Issues: You’ll have a meeting with your Manager to talk about your 
 Working with your Manager on the plan is usually enough to put you back on the right track. However, sometimes it’s not enough and we may need to do something a bit more formal to help you improve.
 ## Suspension
 Suspension isn’t disciplinary action and won’t always be necessary. In some rare cases we might need to suspend you from work on pay while we investigate a disciplinary issue.  Examples of when we might need to suspend you from work are:
-It looks like there’s been an act of serious misconduct
-A crime might have been committed
-There is a risk to the health and safety of Infinity Works colleagues or anyone else
-The misconduct could potentially damage our interests
-You being at work may impact on our ability to conduct the investigation.
+* It looks like there’s been an act of serious misconduct
+* A crime might have been committed
+* There is a risk to the health and safety of Infinity Works colleagues or anyone else
+* The misconduct could potentially damage our interests
+* You being at work may impact on our ability to conduct the investigation.
 
 If you’re suspended from work, we’ll write to you to confirm the situation so that you understand why and what you need to do.
 
