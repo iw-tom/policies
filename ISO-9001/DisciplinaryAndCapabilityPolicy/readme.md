@@ -51,18 +51,18 @@ If you’re dismissed we’ll confirm the decision to you in writing. You’ll b
 For less serious cases our formal procedure normally starts with a first written warning. We then move through each stage, eventually arriving at dismissal if there isn’t enough improvement. However, we may start the process at an earlier stage or skip stages if the problem is serious enough.
 ## Gross Misconduct
 Gross misconduct will usually result in dismissal without warning, with no notice or payment in lieu of notice.  The following are examples of matters which are normally regarded as gross misconduct: 
-Theft or fraud
-Physical violence or bullying
-Deliberate and serious damage to property
-Serious misuse of the organisation’s property or name
-Deliberately accessing internet sites containing pornographic, offensive or obscene material
-Serious insubordination
-Unlawful discrimination or harassment
-Bringing the organisation into serious disrepute
-Serious incapability at work brought on by alcohol or illegal drugs
-Causing loss, damage or injury through serious negligence
-A serious breach of Health and Safety rules
-A serious breach of confidence.
+* Theft or fraud
+* Physical violence or bullying
+* Deliberate and serious damage to property
+* Serious misuse of the organisation’s property or name
+* Deliberately accessing internet sites containing pornographic, offensive or obscene material
+* Serious insubordination
+* Unlawful discrimination or harassment
+* Bringing the organisation into serious disrepute
+* Serious incapability at work brought on by alcohol or illegal drugs
+* Causing loss, damage or injury through serious negligence
+* A serious breach of Health and Safety rules
+* A serious breach of confidence.
 This list is intended as a guide and is not exhaustive. 
 ## Appeals
 You may appeal within one week of being told of the decision of the hearing.  We need to understand why you want to appeal and what you think went wrong.  Be clear and give as much information as you can when you write to your Manager with your appeal.  
