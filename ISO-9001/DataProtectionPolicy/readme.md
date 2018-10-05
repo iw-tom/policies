@@ -33,5 +33,5 @@ We will ensure that appropriate measures are taken against unlawful or unauthori
 We will not disclose your personal data to a third party without your consent unless we are satisfied that they are legally entitled to the data.  Where we do disclose your personal data to a third party, we will have regard to GDPR's data protection principles.  
 ## Subject access requests
 If you wish to know what personal data we hold about you, you must make the request in writing.  All such written requests should be forwarded to [The People Team](people@infinityworks.com).
-Breaches of this policy
+## Breaches of this policy
 If you consider that this policy has not been followed in respect of personal data about yourself or others you should raise the matter with the [People Team](people@infinityworks.com).  Any breach of this policy will be taken seriously and may result in disciplinary action. 
