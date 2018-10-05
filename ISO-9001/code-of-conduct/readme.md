@@ -64,9 +64,9 @@ All employees must be open for communication with their colleagues, supervisors 
   
 We expect employees to not abuse their employment benefits. This can refer to time off, insurance, facilities, subscriptions or other benefits our company offers.
 
-  * [Policies][https://policies.infinityworks.com/]
+  * [Policies](https://policies.infinityworks.com/)
   
-All employees should read and follow our company policies. If they have any questions, they should ask their managers or the [People Team] [https://intranet.infinityworks.com/key-people/head-office-support]
+All employees should read and follow our company policies. If they have any questions, they should ask their managers or the [People Team](https://intranet.infinityworks.com/key-people/head-office-support)
 
 ## Disciplinary actions
 Our company may have to take disciplinary action against employees who repeatedly or intentionally fail to follow our code of conduct. Disciplinary actions will vary depending on the violation. 
