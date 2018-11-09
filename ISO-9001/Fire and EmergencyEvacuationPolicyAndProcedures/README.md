@@ -64,7 +64,7 @@ Note: There are many other documents covering recommendations for fire safety. T
 
 ## 8	Responsibilities in Relation to Fire Safety
 		
-
+![Flow Chart](flowchart.png)
 
 ### 8.1	Responsibilities, Arrangements & Guidance
 
