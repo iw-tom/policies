@@ -6,8 +6,8 @@ If possible, we’ll try to resolve the problem informally at first
 If it is a capability issue, we’ll make sure you know when there is a problem with your performance. You’ll then have a chance to give your views on your performance and what should be done before any decisions are made and we’ll provide support to help you improve
 If it is a disciplinary issue, we’ll investigate allegations of issues and problems to establish the facts and we’ll tell you about any allegations against you. You’ll then have a chance to give your version of what happened before any decisions are made
 Once we’ve established the facts, we’ll decide whether we need to take informal or formal action
-If we arrange a formal meeting, you’ll be able to bring a companion if you want to
-If you’re given a formal warning or you’re dismissed, you’ll be able to appeal
+If we arrange a formal meeting, you’ll be able to bring a companion if you want to.
+If you’re given a formal warning or you’re dismissed, you’ll be able to appeal.
 
 ## Informal stage
 If there’s a problem with your conduct or performance we’ll look at whether or not we can resolve it informally. 
