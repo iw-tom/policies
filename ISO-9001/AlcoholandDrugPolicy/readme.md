@@ -22,7 +22,7 @@ termination. 
 5. Pending court trial and judgment on dangerous drug(s) case, the Company may
 require Personnel to take leave without pay. Personnel found guilty and convicted by
 the court shall be subjected to disciplinary action, not excluding termination.  
-6. Personnel found with drug related problem shall not be permitted undertake work
+6. Personnel found with drug related problem shall not be permitted to undertake work
 for the Company. 
 7. Visitors to Company premises who violate the policy shall be removed from the
 premises and may be denied future entry. 
