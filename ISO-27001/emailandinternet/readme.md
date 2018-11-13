@@ -50,8 +50,9 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## Related Standards, Policies and Processes
 
-- [Data Protection Policy](../dataprotection/readme.md)
-- [Acceptable Usage Policy](../acceptableusage/readme.md)
+* [Acceptable Usage Policy](../acceptableusage/readme.md)
+* [Data Protection Policy](../../ISO-9001/DataProtectionPolicy/readme.md)
+
 
 ## Definitions and Terms
 

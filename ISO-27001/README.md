@@ -75,7 +75,7 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Computing](computing/readme.md)
 * [Cryptographic Controls](cryptographiccontrols/readme.md)
 * [Data Breach](databreach/readme.md)
-<!-- * [Data Protection](dataprotection/readme.md) -->
+* [Data Protection Policy](../ISO-9001/DataProtectionPolicy/readme.md)
 * [Data Retention, Destruction and Disposal](dataretentionanddisposal/readme.md)
 * [Data Transfer](datatransfer/readme.md)
 * [Device](device/readme.md)

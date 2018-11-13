@@ -32,7 +32,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 - [Information Sensitivity Policy](../informationsensitivity/readme.md)
 - [Cryptographic Controls Policy](../cryptographiccontrols/readme.md)
-- [Data Protection Policy](../dataprotection/readme.md)
+- [Data Protection Policy](../../ISO-9001/DataProtectionPolicy/readme.md)
 - [Device Policy](../device/readme.md)
 - [Bring Your Own Device Policy](../byod/readme.md)
 - [Acceptable Usage Policy](../acceptableusage/readme.md)

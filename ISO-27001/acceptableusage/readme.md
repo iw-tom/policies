@@ -139,7 +139,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 ## Related Standards, Policies and Processes
 
 - [Information Sensitivity Policy](../informationsensitivity/readme.md)
-- [Data Protection Policy](../dataprotection/readme.md)
+- [Data Protection Policy](../../ISO-9001/DataProtectionPolicy/readme.md)
 - [Social Networking Policy](../socialnetworking/readme.md)
 - [Access Control Policy](../accesscontrol/readme.md)
 - [Password Policy](../password/readme.md)
