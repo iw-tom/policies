@@ -7,7 +7,8 @@ The Organisation operates a Quality Management System that has gained BS EN ISO 
 The management is committed to: 
  
 1.	Develop and improve the Quality Management System 
-2.	Continually improve the effectiveness of the Quality Management System 3. The enhancement of customer satisfaction. 
+2.	Continually improve the effectiveness of the Quality Management System
+3.	The enhancement of customer satisfaction.
  
 The management has a continuing commitment to: 
  
