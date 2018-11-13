@@ -30,7 +30,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## Related Standards, Policies and Processes
 
-- [Information Sensitivity Policy](../informationsensivity/readme.md)
+- [Information Sensitivity Policy](../informationsensitivity/readme.md)
 - [Cryptographic Controls Policy](../cryptographiccontrols/readme.md)
 - [Data Protection Policy](../dataprotection/readme.md)
 - [Device Policy](../device/readme.md)
