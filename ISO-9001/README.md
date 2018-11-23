@@ -38,11 +38,11 @@ Thank You!
 - [DataProtectionPolicy](DataProtectionPolicy)
 - [DisciplinaryAndCapabilityPolicy](DisciplinaryAndCapabilityPolicy)
 - [ExpensesPolicy](Expenses%20Policy)
-- [Fire and EmergencyEvacuationPolicyAndProcedures](Fire%20and%20EmergencyEvacuationPolicy)
+- [Fire and EmergencyEvacuationPolicyAndProcedures](Fire%20and%20EmergencyEvacuationPolicyAndProcedures)
 - [FlexibleWorking](FlexibleWorking)
 - [Gifts and Hospitality Policy](Gifts%20and%20Hospitality)
 - [GrievancePolicy](GrievancePolicy)
-- [HealthandSafetyatWorkPolicy](HealthandSafetyatWorkPolicy)
+- [HealthandSafetyatWorkPolicy](HealthAndSafetyAtWorkPolicy)
 - [ItAndCommunicationSystems](ItAndCommunicationSystems)
 - [JuryService](JuryServicePolicy)
 - [LoneWorker  - Needs Adding]
