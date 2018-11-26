@@ -24,7 +24,7 @@ leave you should contact your account manager. It may be appropriate to take a p
 account manager’s approval, or we may at our discretion grant you further unpaid leave in those
 circumstances.
 
-## Requesting Passionate Leave
+## Requesting Compassionate Leave
 
 We recognise that it may not always be possible to request compassionate leave in
 advance. However, where it is possible, you should make a request to your account manager via BambooHR. You should tell them the reasons for your request and the number of days leave you would like to take.
