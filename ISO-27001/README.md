@@ -82,7 +82,7 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 * [Digital Signature Acceptance](digitalsignatureacceptance/readme.md)
 * [Email and Internet](emailandinternet/readme.md)
 * [End User Encryption Key Protection](enduserencryptionkeyprotection/readme.md)
-* [GDPR] (GDPR/readme.md)
+* [GDPR] (../ISO-27001/GDPR/readme.md)
 * [Hiring](hiring/readme.md)
 * [Information Exchange](informationexchange/readme.md)
 * [Information Sensitivity](informationsensitivity/readme.md)
