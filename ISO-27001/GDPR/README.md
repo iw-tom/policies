@@ -43,45 +43,45 @@ There are “special categories” of more sensitive personal data which require
 
 We will collect, store, and use the following categories of personal information about you:
 
-• Personal contact details such as name, title, addresses, telephone numbers, and personal
+- Personal contact details such as name, title, addresses, telephone numbers, and personal
 email addresses.
-• Date of birth.
-• Gender.
-• Marital status.
-• Next of kin and emergency contact information.
-• National Insurance number.
-• Bank account details, payroll records and tax status information.
-• Salary, annual leave, pension and benefits information.
-• Start date and, if different, the date of your continuous employment.
-• Leaving date and your reason for leaving.
-• Location of employment or workplace.
-• Copy of your passport, driving licence and other forms of identification provided for our
+- Date of birth.
+- Gender.
+- Marital status.
+- Next of kin and emergency contact information.
+- National Insurance number.
+- Bank account details, payroll records and tax status information.
+- Salary, annual leave, pension and benefits information.
+- Start date and, if different, the date of your continuous employment.
+- Leaving date and your reason for leaving.
+- Location of employment or workplace.
+- Copy of your passport, driving licence and other forms of identification provided for our
 pre-employment checks and any additional vetting checks requested by a particular client
 whose account you are to work on.
-• Recruitment information (including copies of right to work documentation, references and
+- Recruitment information (including copies of right to work documentation, references and
 other information included in a CV or cover letter or as part of the application process).
-• Employment records (including job titles, work history, working hours, holidays, training
+- Employment records (including job titles, work history, working hours, holidays, training
 records and professional memberships).
-• Performance information.
-• Disciplinary and grievance information.
-• CCTV footage and other information obtained through electronic means such as swipe card
+- Performance information.
+- Disciplinary and grievance information.
+- CCTV footage and other information obtained through electronic means such as swipe card
 records.
-• Information about your use of our information and communications systems.
-• Photographs.
-• Results of HMRC employment status check, details of your interest in and connection with the
+- Information about your use of our information and communications systems.
+- Photographs.
+- Results of HMRC employment status check, details of your interest in and connection with the
 intermediary through which your services are supplied.
 
 We may also collect, store and use the following “special categories” of more sensitive personal information:
 
-• Information about your health, including any medical condition, health and sickness records,
+- Information about your health, including any medical condition, health and sickness records,
 including:
-• where you leave employment and the reason for leaving is determined to be ill-health,
+- where you leave employment and the reason for leaving is determined to be ill-health,
 injury or disability, the records relating to that decision;
-• details of any absences (other than holidays) from work including time on statutory parental leave and sick leave; and
-• where you leave employment and the reason for leaving is related to your health,
+- details of any absences (other than holidays) from work including time on statutory parental leave and sick leave; and
+- where you leave employment and the reason for leaving is related to your health,
 information about that condition needed for pensions and health insurance purposes.
-• Information about criminal convictions and offences.
-• Trade union membership.
+- Information about criminal convictions and offences.
+- Trade union membership.
 
 ### HOW IS YOUR PERSONAL INFORMATION COLLECTED?
 
@@ -111,36 +111,36 @@ We may also use your personal information in the following situations, which are
 
 We need all the categories of information in the list above primarily to allow us to perform our contract with you and to enable us to comply with legal obligations. In some cases we may use your personal information to pursue legitimate interests of our own or those of third parties, provided your interests and fundamental rights do not override those interests. The situations in which we will process your personal information are listed below.
 
-• Making a decision about your recruitment or appointment.
-• Determining the terms on which you work for us.
-• Checking you are legally entitled to work in the UK.
-• Paying you and, if you are an employee or deemed employee for tax purposes, deducting tax and National Insurance contributions (NICs)
-• Providing the following benefits to you: childcare vouchers, cycle to work scheme, private
+- Making a decision about your recruitment or appointment.
+- Determining the terms on which you work for us.
+- Checking you are legally entitled to work in the UK.
+- Paying you and, if you are an employee or deemed employee for tax purposes, deducting tax and National Insurance contributions (NICs)
+- Providing the following benefits to you: childcare vouchers, cycle to work scheme, private
 healthcare, death in service, staff discounts.
-• Enrolling you in a pension arrangement in accordance with our statutory automatic enrolment
+- Enrolling you in a pension arrangement in accordance with our statutory automatic enrolment
 duties.
-• Liaising with the trustees or managers of a pension arrangement operated by the Company,
+- Liaising with the trustees or managers of a pension arrangement operated by the Company,
 your pension provider and any other provider of employee benefits.
-• Administering the contract we have entered into with you.
-• Business management and planning, including accounting and auditing.
-• Conducting/making decisions regarding salary reviews and managing performance.
-• Assessing qualifications for a particular job or task, including decisions about promotions.
-• Gathering evidence for possible grievance or disciplinary hearings.
-• Making decisions about your continued employment or engagement.
-• Making arrangements for the termination of our working relationship.
-• Education, training and development requirements.
-• Dealing with legal disputes involving you, or other employees, workers and contractors,
+- Administering the contract we have entered into with you.
+- Business management and planning, including accounting and auditing.
+- Conducting/making decisions regarding salary reviews and managing performance.
+- Assessing qualifications for a particular job or task, including decisions about promotions.
+- Gathering evidence for possible grievance or disciplinary hearings.
+- Making decisions about your continued employment or engagement.
+- Making arrangements for the termination of our working relationship.
+- Education, training and development requirements.
+- Dealing with legal disputes involving you, or other employees, workers and contractors,
 including accidents at work.
-• Managing sickness absence.
-• Complying with health and safety obligations.
-• To monitor your use of our information and communication systems to ensure compliance with
+- Managing sickness absence.
+- Complying with health and safety obligations.
+- To monitor your use of our information and communication systems to ensure compliance with
 our IT policies.
-• To ensure network and information security, including preventing unauthorised access to our
+- To ensure network and information security, including preventing unauthorised access to our
 computer and electronic communications systems and preventing malicious software
 distribution.
-• To conduct data analytics studies to review and better understand employee retention and
+- To conduct data analytics studies to review and better understand employee retention and
 attrition rates.
-• Equal opportunities monitoring.
+- Equal opportunities monitoring.
 
 Some of the above grounds for processing will overlap and there may be several grounds which justify our use of your personal information.
 
@@ -171,10 +171,10 @@ Less commonly, we may process this type of information where it is needed in rel
 
 We will use your particularly sensitive personal information in the following ways:
 
-• We will use information relating to leaves of absence, which may include sickness absence or family related leaves, to comply with employment and other laws.
-• We will use information about your physical or mental health, or disability status, to ensure your health and safety in the workplace and to assess your fitness to work, to provide
+- We will use information relating to leaves of absence, which may include sickness absence or family related leaves, to comply with employment and other laws.
+- We will use information about your physical or mental health, or disability status, to ensure your health and safety in the workplace and to assess your fitness to work, to provide
 appropriate workplace adjustments, to monitor and manage sickness absence and to administer benefits including statutory maternity pay, statutory sick pay, and pensions.
-• We will use information about your race or national or ethnic origin, religious, philosophical or moral beliefs, or your sexual life or sexual orientation, to ensure meaningful equal opportunity monitoring and reporting.
+- We will use information about your race or national or ethnic origin, religious, philosophical or moral beliefs, or your sexual life or sexual orientation, to ensure meaningful equal opportunity monitoring and reporting.
 
 ### Do we need your consent?
 
@@ -194,8 +194,8 @@ Where appropriate, we will collect information about criminal convictions as par
 
 We will use information about criminal convictions and offences in the following ways:
 
-• To assess your suitability for the role you are employed for;
-• To assess your suitability to provide services on behalf of the Company to an End Client.
+- To assess your suitability for the role you are employed for;
+- To assess your suitability to provide services on behalf of the Company to an End Client.
 
 We are allowed to use your personal information in this way to carry out our obligations under law or contained in our contracts with our End Clients. We have in place an appropriate policy and safeguards which we are required by law to maintain when processing such data.
 
@@ -271,23 +271,23 @@ It is important that the personal information we hold about you is accurate and 
 
 Under certain circumstances, by law you have the right to:
 
-• **Request access** to your personal information (commonly known as a “data subject access
+- **Request access** to your personal information (commonly known as a “data subject access
 request”). This enables you to receive a copy of the personal information we hold about you
 and to check that we are lawfully processing it.
-• **Request correction** of the personal information that we hold about you. This enables you to
+- **Request correction** of the personal information that we hold about you. This enables you to
 have any incomplete or inaccurate information we hold about you corrected.
-• **Request erasure** of your personal information. This enables you to ask us to delete or
+- **Request erasure** of your personal information. This enables you to ask us to delete or
 remove personal information where there is no good reason for us continuing to process it.
 You also have the right to ask us to delete or remove your personal information where you
 have exercised your right to object to processing (see below).
-• **Object to processing** of your personal information where we are relying on a legitimate
+- **Object to processing** of your personal information where we are relying on a legitimate
 interest (or those of a third party) and there is something about your particular situation which
 makes you want to object to processing on this ground. You also have the right to object
 where we are processing your personal information for direct marketing purposes.
-• **Request the restriction of processing** of your personal information. This enables you to ask
+- **Request the restriction of processing** of your personal information. This enables you to ask
 us to suspend the processing of personal information about you, for example if you want us to
 establish its accuracy or the reason for processing it.
-• **Request the transfer** of your personal information to another party.
+- **Request the transfer** of your personal information to another party.
 
 If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact (SAR@infinityworks.com)
 
