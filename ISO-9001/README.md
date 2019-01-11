@@ -38,6 +38,7 @@ Thank You!
 - [DataProtectionPolicy](DataProtectionPolicy)
 - [DisciplinaryAndCapabilityPolicy](DisciplinaryAndCapabilityPolicy)
 - [ExpensesPolicy](Expenses%20Policy)
+- [Equal Opportunities](Equal-Opportunities)
 - [Fire and EmergencyEvacuationPolicyAndProcedures](Fire%20and%20EmergencyEvacuationPolicyAndProcedures)
 - [FlexibleWorking](FlexibleWorking)
 - [Gifts and Hospitality Policy](Gifts%20and%20Hospitality)
