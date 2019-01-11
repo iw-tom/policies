@@ -1,7 +1,7 @@
 
-Equal Opportunities Policy
+## Equal Opportunities Policy
  
-1.  *EQUAL OPPORTUNITIES STATEMENT*
+1.  # EQUAL OPPORTUNITIES STATEMENT*
 1.1  Infinity Works is committed to promoting equal opportunities in employment. Our employees and applicants will receive equal treatment regardless of age, disability, gender reassignment, marital or civil partner status, pregnancy or maternity, race, colour, nationality, ethnic or national origin, religion or belief, sex or sexual orientation (Protected Characteristics).
 2.  *ABOUT THIS POLICY* 
 2.1  This policy sets out our approach to equal opportunities and the avoidance of discrimination at work. It applies to all aspects of employment with us, including recruitment, pay and conditions, training, appraisals, promotion, conduct at work, disciplinary and grievance procedures, and termination of employment.
