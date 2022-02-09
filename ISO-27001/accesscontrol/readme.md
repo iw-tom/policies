@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Access to data / services used by Infinity Works is tightly controlled via a number of methods below.
+Access to data / services used by Opus Works is tightly controlled via a number of methods below.
 
 Data and services includes, but is not limited to:
 
@@ -11,11 +11,11 @@ Data and services includes, but is not limited to:
 - Delivery Tracking Tools / Agile Life-cycle Management Tools (e.g. JIRA)
 - Cloud Services (e.g. AWS, Azure, Google Cloud Platform)
 
-Client-provided services are exempt from this policy, although all Infinity Works staff and contractors must comply with the customer's Access Control Policy.
+Client-provided services are exempt from this policy, although all Opus Works staff and contractors must comply with the customer's Access Control Policy.
 
 ## Scope
 
-This policy applies to all Infinity Works employees and contractors.
+This policy applies to all Opus Works employees and contractors.
 
 ## Policy
 
@@ -43,8 +43,8 @@ The ISMS Comittee periodically reviews system access for all internal systems to
 
 ### Network Access Control
 
-- Infinity Works considers all networks to be untrustworthy.
-   - Infinity Works does not operate a trusted network (intranet) in order to control access to services.
+- Opus Works considers all networks to be untrustworthy.
+   - Opus Works does not operate a trusted network (intranet) in order to control access to services.
    - Access control is provided by mechanisms which can operate on untrusted networks.
 
 ## Policy Compliance
