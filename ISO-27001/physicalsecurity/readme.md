@@ -25,7 +25,7 @@ Physical Security involves a balance between physical presence and use of techno
 
 Physical Security requires appropriate layering of physical and technical security such as appropriate building construction, suitable emergency preparedness, reliable power supplies, adequate climate control, alarm systems and CCTV.
 
-Infinity Works will: 
+Opus Works will: 
 
 * Secure the perimeters of its offices and take all reasonable measures to prevent unauthorised access
 * Reserve the right to limit access to the building to employees, visitors, clients and contractors
@@ -35,41 +35,35 @@ Infinity Works will:
 * Use CCTV surveillance in sensitive or higher risk areas where applicable:
   * The provision of building Security Staff that are trained and authorised to operate and monitor CCTV equipment, during hours when the building is accessible to the public
 
-Infinity Works will adopt the following items of security equipment:
+Opus Works will adopt the following items of security equipment:
 
 * Intruder Alarm Equipment for designated fire doors
 * Access Control Systems including Identity Cards
 * CCTV surveillance and CCTV recording equipment
 * Door furniture, locks and suiting
 
-Infinity Works reserves the rights to:
+Opus Works reserves the rights to:
 
-* Conduct spot checks to ensure that individuals gaining access to Infinity Works property can provide evidence that they are genuine employees, visitors or contractors to the premises. 
+* Conduct spot checks to ensure that individuals gaining access to Opus Works property can provide evidence that they are genuine employees, visitors or contractors to the premises. 
 * Require individuals who cannot provide evidence that they are genuine staff, or visitors to leave the premises. 
-* Request police assistance in the event of any criminal offence being committed on or to Infinity Works property.
+* Request police assistance in the event of any criminal offence being committed on or to Opus Works property.
 
 ### Intruder Alarms and Access Control Systems 
 
 * Intruder Alarms and Access Control Systems operate in some areas.
-* Card controlled doors are in use across Infinity Works offices. 
+* Card controlled doors are in use across Opus Works offices. 
    * Access cards should be treated in the same way as a key - cardholders must safeguard their card and report any loss to the ISMS Committee and / or the Admin Team as soon as possible, so the card access can be cancelled. 
    * Access to the Access Control System is restricted to authorised personnel only. 
 
 ### Closed Circuit Television (CCTV) Systems 
 
-Infinity Works may share CCTV footage (unless unlawful to do so) for the purpose of identifying potential hostile intruders, or to seek evidence of attempted or actual hostile intrusion. Access to the CCTV system is restricted to authorised personnel only. 
-
-#### Wireless Access Point Testing 
-
-Infinity Works will undertake quarterly WAP testing in Infinity Works offices to identify rogue access points which could be connected to the network. This will be facilitated by an inventory of authorised WAPs.
-
-See [Security Incident Reporting Policy](../securityincidentreporting/readme.md)
+Opus Works may share CCTV footage (unless unlawful to do so) for the purpose of identifying potential hostile intruders, or to seek evidence of attempted or actual hostile intrusion. Access to the CCTV system is restricted to authorised personnel only. 
 
 ## 3 Responsibilities
 
 Shared responsibility for security rests with all employees, contractors and visitors.
 
-Everyone should report all activity, suspected or real, of a criminal nature or any suspicious activity immediately (see Hostile Intruders section below) to the Infinity Works Operations Manager or Building Security.  
+Everyone should report all activity, suspected or real, of a criminal nature or any suspicious activity immediately (see Hostile Intruders section below) to the Opus Works Operations Manager or Building Security.  
 
 ### ISMS Committee
 * Development, planning and implementation of physical security strategy
@@ -83,14 +77,14 @@ Everyone should report all activity, suspected or real, of a criminal nature or 
 
 ### Visitors
 * Adhere to the relevant sections of this policy and to give due consideration to physical security issues.
-* Follow security procedures designed to protect Infinity Works property. 
+* Follow security procedures designed to protect Opus Works property. 
 * Follow instructions from their point of contact in emergency situations.   
 
-If identification, a point of contact, or purpose for being within an Infinity Works office cannot be established, contact the Operations Manager or any member of the ISMS Committee who will take action, e.g. ask the individual to leave, and call the police.
+If identification, a point of contact, or purpose for being within an Opus Works office cannot be established, contact the Operations Manager or any member of the ISMS Committee who will take action, e.g. ask the individual to leave, and call the police.
 
 ## Hostile Intruders
 
-Hostile Intruders can be classed as anyone attempting to gain access to Infinity Works offices in order to gain information on the business, our customers or cause disruption.
+Hostile Intruders can be classed as anyone attempting to gain access to Opus Works offices in order to gain information on the business, our customers or cause disruption.
 
 * Anyone acting suspiciously should be challenged e.g. people loitering, vehicles moving slowly or repeatedly around the site perimeter, or someone taking photographs of the buildings etc. Any activity or behaviour of this nature is classed as hostile reconnaissance.  
 * All instances of perceived hostile reconnaissance should be reported immediately, no matter how trivial. It is better to report your suspicions, even if they transpire to be unfounded, than to fail to report something significant. 
@@ -105,6 +99,6 @@ Questions and details to be passed to the police:
 * Time arrived on site 
 * Areas of the building visited  
 
-While you attempt to gain this information, contact the Operations Manager and ISMS Committee.
+While you attempt to gain this information, contact a Director and the ISMS Committee.
 
 [back](../README.md#a-z-policies)
