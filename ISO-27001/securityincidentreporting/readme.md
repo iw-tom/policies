@@ -1,10 +1,10 @@
 # Security Incident Reporting
  
 ## Introduction
-Infinity Works has established a formal policy and supporting procedures in the event of a Security Incident.
+Opus Works has established a formal policy and supporting procedures in the event of a Security Incident.
 
 ## Procedure
-All Infinity Works employees should be aware of common security threats and computer incidents that may potentially compromise the organisation's computing infrastructure, cause harm to other related systems or pose a significant financial, operational or business threat to the organisation as a whole.
+All Opus Works employees should be aware of common security threats and computer incidents that may potentially compromise the organisation's computing infrastructure, cause harm to other related systems or pose a significant financial, operational or business threat to the organisation as a whole.
 
 It is the responsibility of all staff to report security risks and incidents to the ISMS Committee.
 
@@ -36,13 +36,13 @@ A response plan should be proposed to deal with potential risk identified. This 
 * Mitigation 
 * Decisions needed
 
-The Security Incident Log can be found [here](https://docs.google.com/spreadsheets/d/1NxIoFZLzkpmQlwXNpvoj3Uyb6-z540l6NrDg8B0yJSs/edit#gid=75233254)
+The Security Incident Log can be found [here](https://docs.google.com/) - Needs a link
  
 It is the responsibility of the [ISMS Committee](../README.md#the-isms-committee) to ensure that an investigation can follow the incident. For example by:
 * Understanding how the incident occurred and what led to the compromise 
 * Securing all necessary system documentation, such as logs, audit trails  
 * Interviewing personnel as needed  
-* Examining any third party providers and their respective products and services that are utilised within Infinity Works’s network architecture
+* Examining any third party providers and their respective products and services that are utilised within Opus Works’s network architecture
 * If warranted, a third party for assisting in the investigation of the incident may be utilised (this will be done at the management’s discretion) 
 
 ## Recovery
@@ -61,7 +61,7 @@ A formal and documented Incident Response Report (IRR) is to be compiled and giv
  * Response mechanisms undertaken 
  * Reporting activities to all relevant third parties as needed 
  * Recovery activities undertaken for restoring affected systems  
- * A list of Lessons Learned from the incident including review and updating of process documentation and which initiative Infinity Works can take to mitigate and hopefully eliminate the likelihood of future incidents 
+ * A list of Lessons Learned from the incident including review and updating of process documentation and which initiative Opus Works can take to mitigate and hopefully eliminate the likelihood of future incidents 
 
 
 [back](../README.md#a-z-policies)
