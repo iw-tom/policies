@@ -6,14 +6,14 @@ This policy describes how we will monitor the use of our computer systems.
 
 ## Scope
 
-This policy applies to users of the following Infinity Works systems:
+This policy applies to users of the following Opus Works systems:
 
  - Networks
  - Laptops and desktop computers
 
 ## Policy
 
-- Infinity Works systems and networks are intended for ‘business’ use. However, we also recognise that there are benefits to be gained by allowing  personal use of our services. All usage of our computing services should be consistent with our Acceptable Use Policy.
+- Opus Works systems and networks are intended for ‘business’ use. However, we also recognise that there are benefits to be gained by allowing  personal use of our services. All usage of our computing services should be consistent with our Acceptable Use Policy.
 
 - We reserve the right to monitor the use of our network and services, and access any information stored on our infrastructure, but will do so in ways that are consistent with relevant legislation and guidance provided by the office of the UK Information Commissioner. We will undertake such monitoring to:
 
@@ -44,11 +44,11 @@ This policy applies to users of the following Infinity Works systems:
 
 - We log usage of our devices and networks, this data may be utilised when investigating compliance of users to our network policies.
 
-- None of this data contains the content of the communication or the file – only information about the electronic activity. The ‘usage logging’ does not therefore allow Infinity Works monitor or record ‘sensitive personal data’ as defined by the Data Protection Act 1998.
+- None of this data contains the content of the communication or the file – only information about the electronic activity. The ‘usage logging’ does not therefore allow Opus Works monitor or record ‘sensitive personal data’ as defined by the Data Protection Act 1998.
 
 ### Content inspection and authorised access
 
-- Infinity Works has the right to inspect the content in their systems:
+- Opus Works has the right to inspect the content in their systems:
   - To fulfil business, when a user is unexpectedly absent or is on leave
   - To satisfy Data Protection subject access requests
   - Where we have reason to believe that a breach of our acceptable usage, email and internet, computing and social networking policies is occurring, or has occurred (e.g. where a complaint or concern has been raised)
@@ -73,7 +73,7 @@ This policy applies to users of the following Infinity Works systems:
 
 - This record will be kept securely. In order to respond to the criteria above, the record may be shared with the account manager, advocate, leadership guild, ISMS Committee or board members.
 
-- In certain circumstances, investigation of prohibited use may require taking a copy of material which would normally be prohibited from being stored on our systems: for example, pornographic images. As well as requiring the above approval, the investigating person must record and inform the ISMS Committee where this material is being stored and why. As soon as the process is complete, this material must be destroyed. The date of the destruction should be recorded. Destruction will be delayed if the material is illegal and Infinity Works is requested to retain the material by law enforcement officers.
+- In certain circumstances, investigation of prohibited use may require taking a copy of material which would normally be prohibited from being stored on our systems: for example, pornographic images. As well as requiring the above approval, the investigating person must record and inform the ISMS Committee where this material is being stored and why. As soon as the process is complete, this material must be destroyed. The date of the destruction should be recorded. Destruction will be delayed if the material is illegal and Opus Works is requested to retain the material by law enforcement officers.
 
 - We will regard any attempt to conduct a content inspection that is not in accordance with this policy as gross misconduct. 
 
