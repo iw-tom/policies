@@ -1,7 +1,7 @@
 # Backup Policy
  	  	 	 
 ## Introduction
-Infinity Works must secure data against loss of confidentiality, integrity and availability during transfer between electronic systems.
+Opus Works must secure data against loss of confidentiality, integrity and availability during transfer between electronic systems.
 
 This document presents security controls that must be applied to systems which require backup.
 
@@ -13,17 +13,17 @@ These systems include, but are not limited to:
 - Cloud Services (e.g. AWS, Azure, Google Cloud Platform)
 
 ## Audience
-This document should be read by all administrators, information security and security operations personnel and those involved with the support and maintenance of Infinity Works’ backup processes and procedures.  
+This document should be read by all administrators, information security and security operations personnel and those involved with the support and maintenance of Opus Works’ backup processes and procedures.  
 
 ## Non-Compliance
 If the controls detailed in this standard cannot be met, the exemption must be approved by the ISMS Committee.
 
 ## Information Backup
-The policy of Infinity Works is that cloud storage is more reliable than local device storage and that cloud services such as Google Drive should be used in preference to storing files on a local computer, where the files can be lost with the device.
+The policy of Opus Works is that cloud storage is more reliable than local device storage and that cloud services such as Google Drive should be used in preference to storing files on a local computer, where the files can be lost with the device.
 
 You should treat your laptop as a disposable commodity that you may lose access to any time. See the [Laptop Policy](../device/readme.md).
 
-It is your responsibility to use the services provided to you by Infinity Works to protect against data loss.
+It is your responsibility to use the services provided to you by Opus Works to protect against data loss.
 
 All services we provide to staff use encrypted communication channels, but data may not stored encrypted at rest by default within these services. Ensure that you follow the [Information Sensitivity Policy](../informationsensitivity/readme.md).
 
