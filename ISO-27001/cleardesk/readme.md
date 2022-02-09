@@ -12,7 +12,7 @@ The purpose for this policy is to establish the minimum requirements for maintai
 
 ## Scope
 
-This policy applies to all Infinity Works Consulting employees and affiliates.
+This policy applies to all Opus Works Consulting employees and affiliates.
 
 ## Policy
 
