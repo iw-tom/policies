@@ -2,7 +2,7 @@
 
 ## Overview
 
-It is our people that make Infinity Works a great place to work. That’s why we work hard to be an inclusive employer, so everyone can be their best. We want people to enjoy coming to work at Infinity Works and most of all we want them to be happy in what they do. If someone’s conduct or behaviour is unacceptable or their performance is below what we would expect, it lets the rest of the team down and we need to do something.  We’ll be consistent and fair in managing such problems at work and will treat each situation on its own merits.  We’ll explain clearly what the problem is and what we expect.  With capability issues we’ll provide support to help you improve.   This procedure applies to employees but not contractors. 
+It is our people that make Opus Works a great place to work. That’s why we work hard to be an inclusive employer, so everyone can be their best. We want people to enjoy coming to work at Opus Works and most of all we want them to be happy in what they do. If someone’s conduct or behaviour is unacceptable or their performance is below what we would expect, it lets the rest of the team down and we need to do something.  We’ll be consistent and fair in managing such problems at work and will treat each situation on its own merits.  We’ll explain clearly what the problem is and what we expect.  With capability issues we’ll provide support to help you improve.   This procedure applies to employees but not contractors. 
 
 ### What this means
 
@@ -16,11 +16,11 @@ It is our people that make Infinity Works a great place to work. That’s why we
 
 ### A "Manager"
 
-Throughout this policy we will use the term "manager".  The term "manager" will mean your Line Manager, Account Manager, Advocate, assigned Principle Consultant or a Director.  Feedback can come from multiple parties dependent on the nature of the concern.
+Throughout this policy we will use the term "manager".  The term "manager" will mean your Line Manager or a Director.  Feedback can come from multiple parties dependent on the nature of the concern.
 
 ## Scope
 
-This policy applies to all Infinity Works Consulting employees & contractors.
+This policy applies to all Opus Works Group employees & contractors.
 
 ## Policy
 
@@ -48,7 +48,7 @@ In some cases we might need to suspend you from work on pay while we investigate
 
 - It looks like there’s been an act of serious misconduct
 - A crime might have been committed
-- There is a risk to the health and safety of Infinity Works colleagues or anyone else
+- There is a risk to the health and safety of Opus Works colleagues or anyone else
 - The misconduct could potentially damage our interests
 - You being at work may impact on our ability to conduct the investigation.
 
@@ -56,7 +56,7 @@ If you’re suspended from work, we’ll write to you to confirm the situation s
 
 ### Formal Stage
 
-If we get to this stage, you’ll be invited to a meeting. You can bring a companion from Infinity Works to the meeting if you want to. Normally the meeting will be run by a manager who was not involved in the investigation. We call this person, the “Chairperson”.  A HR representative from the Administration  Team or Board may also be present.
+If we get to this stage, you’ll be invited to a meeting. You can bring a companion from Opus Works to the meeting if you want to. Normally the meeting will be run by a manager who was not involved in the investigation. We call this person, the “Chairperson”.  
 
 If you or your companion can’t go to the meeting you need to let the Chairperson know why as soon as possible.  If there is a good reason, we may rearrange it. On-going sickness absence may not be enough of a reason for you not to attend a meeting. If you don’t attend, the Chairperson can in some circumstances insist the meeting goes ahead and may make a decision in your absence. 
 
@@ -68,7 +68,7 @@ The levels of warning and types of dismissal are:
 
 1.	Stage 1 – Formal Verbal Warning
 
-    If the complaint or offence is minor, you’ll be given a formal verbal warning.  We’ll explain what the offence or complaint is and what we’re likely to do to if it happens again.   If necessary, we’ll also explain how you need to improve and by when.  We keep a copy of the warning on your file and it’s live for 6 months.  After that, if everything is ok, we’ll disregard it. 
+    If the complaint or offence is minor, you’ll be given a formal verbal warning.  We’ll explain what the offence or complaint is and what we’re likely to do if it happens again.   If necessary, we’ll also explain how you need to improve and by when.  We keep a copy of the warning on your file and it’s live for 6 months.  After that, if everything is ok, we’ll disregard it. 
 
 1.	Stage 2 - First Written Warning
 
@@ -145,7 +145,7 @@ None
 
 ## Grievance Policy
 
-We want Infinity Works to be a great place to work and aim to create a positive work environment.  If you have a grievance about something or someone at Infinity Works you should let us know and we’ll try to solve it as soon as we can.  Most grievances can be resolved quickly and informally though discussion with your Advocate, Account Manager, Line Manager or a Director.  However if this does not resolve the problem you may initiate the formal procedure set out here.  This procedure applies to all employees regardless of length of service. It does not apply to contractors. 
+We want Opus Works to be a great place to work and aim to create a positive work environment.  If you have a grievance about something or someone at Opus Works you should let us know and we’ll try to solve it as soon as we can.  Most grievances can be resolved quickly and informally though discussion with your Advocate, Account Manager, Line Manager or a Director.  However if this does not resolve the problem you may initiate the formal procedure set out here.  This procedure applies to all employees regardless of length of service. It does not apply to contractors. 
 
 1.	Step 1: Written Grievance
 
