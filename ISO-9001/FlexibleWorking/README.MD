@@ -1,6 +1,6 @@
 # Flexible Working Policy #
 
-This policy applies to employees of Infinity Works only. A flexible working request under this policy means a
+This policy applies to employees of Opus Works only. A flexible working request under this policy means a
 request to do any or all of the following:
 
 1. To reduce or vary your working hours;
