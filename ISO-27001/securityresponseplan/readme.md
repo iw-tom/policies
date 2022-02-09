@@ -1,16 +1,16 @@
 # Security Response Plan
 
 ## Overview
-A Security Response Plan (SRP) provides the impetus for security and business teams to integrate their efforts from the perspective of awareness and communication, as well as coordinated response in times of crisis (security vulnerability identified or exploited). Specifically, an SRP defines a product description, contact information, escalation paths, expected service level agreements (SLA), severity and impact classification, and mitigation/remediation timelines. Contracts agreed with clients that required Infinity Works to incorporate an SRP as part of their business continuity operations and as new product or service developed and prepared for release to consumers, ensures that when an incident occurs, swift mitigation and remediation ensues.
+A Security Response Plan (SRP) provides the impetus for security and business teams to integrate their efforts from the perspective of awareness and communication, as well as coordinated response in times of crisis (security vulnerability identified or exploited). Specifically, an SRP defines a product description, contact information, escalation paths, expected service level agreements (SLA), severity and impact classification, and mitigation/remediation timelines. Contracts agreed with clients that required Opus Works to incorporate an SRP as part of their business continuity operations and as new product or service developed and prepared for release to consumers, ensures that when an incident occurs, swift mitigation and remediation ensues.
 
 ## Purpose
 The purpose of such a policy would be to establish the requirement that all business units supported by the ISMS Committee develop and maintain a security response plan. This ensures that ISMS Committee have all the necessary information to formulate a successful response should a specific security incident occur.
 
 ## Scope
-This policy applies to any client requiring such details including in their contract when dealing with Infinity Works.
+This policy applies to any client requiring such details including in their contract when dealing with Opus Works.
 
 ## Policy
-The development, implementation, and execution of a Security Response Plan (SRP) are the primary responsibility of the specific client for whom the SRP is being developed in cooperation with the ISMS Committee. The Infinity Works Account Lead or Principal Consultant assigned to the client is expected to properly facilitate any required SRP applicable to the service or products they are held accountable. The Infinity Works Account Lead of Technical Lead or Principal Consulant is further expected to work with the ISMS Committee in the development and maintenance of a required Security Response Plan.
+The development, implementation, and execution of a Security Response Plan (SRP) are the primary responsibility of the specific client for whom the SRP is being developed in cooperation with the ISMS Committee. The Opus Works Account Lead or Principal Consultant assigned to the client is expected to properly facilitate any required SRP applicable to the service or products they are held accountable. The Opus Works Account Lead of Technical Lead or Principal Consulant is further expected to work with the ISMS Committee in the development and maintenance of a required Security Response Plan.
 
 ## Service or Product Description
 The product description in an SRP must clearly define the service or application to be deployed with additional attention to data flows, logical diagrams, architecture considered highly useful.
@@ -30,7 +30,7 @@ The SRP must include levels of response to identified vulnerabilities that defin
 ##  Policy Compliance
 
 ### Compliance Measurement
-Each client is expected to have contact details of the Infinity Works Account Lead of Technical Lead or Principal Consulant.
+Each client is expected to have contact details of the Opus Works Account Lead of Technical Lead or Principal Consulant.
 
 ### Exceptions
 Any exception to this policy must be approved by the ISMS Committee in advance and have a written record.
