@@ -5,7 +5,7 @@ This policy is in place to minimise the risks to our business through the use of
 
 ### Personal Conduct
 Occasional use of social media during working hours is permitted so long as it does not involve unprofessional or inappropriate content, does not interfere with your employment responsibilities or productivity and complies with this policy.  
-You must not, however, make any social media communications that could damage our business interests or reputation, even indirectly.  You must not use social media to defame or disparage us, your Infinity Works colleagues or any third party; to harass, bully or unlawfully discriminate against colleagues or third parties; to make false or misleading statements; or to impersonate colleagues or third parties.   You must not express opinions on our behalf via social media, unless expressly authorised by your Manager.  You must not post comments about sensitive business related topics, such as our performance, or do anything to jeopardise our confidential information and intellectual property. 
+You must not, however, make any social media communications that could damage our business interests or reputation, even indirectly.  You must not use social media to defame or disparage us, your Opus Works colleagues or any third party; to harass, bully or unlawfully discriminate against colleagues or third parties; to make false or misleading statements; or to impersonate colleagues or third parties.   You must not express opinions on our behalf via social media, unless expressly authorised by your Manager.  You must not post comments about sensitive business related topics, such as our performance, or do anything to jeopardise our confidential information and intellectual property. 
 
 
 ### Security and identity theft
@@ -16,11 +16,11 @@ You must not, however, make any social media communications that could damage ou
 
 1. Employees must also be security conscious and should take steps to protect themselves from identity theft, for example by restricting the amount of personal information that they share on social networking sites. In addition, employees should:
 
-1. Ensure that no information is made available that could provide a person with unauthorised access to Infinity Works Consulting and/or any confidential information.
+1. Ensure that no information is made available that could provide a person with unauthorised access to Opus Works Consulting and/or any confidential information.
 
 1. Employee’s should be mindful that the posting of photographs taken at work may include confidential information e.g. computer screens, notice boards etc in the background
 
-1. Refrain from recording any confidential information regarding Infinity Works Consulting on any social networking website including pages on these sites for Infinity Works Consulting
+1. Refrain from recording any confidential information regarding Opus Works Consulting on any social networking website including pages on these sites for Opus Works Consulting
  
 
 ### Disiplinary Action
