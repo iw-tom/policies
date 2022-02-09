@@ -6,9 +6,9 @@ The purpose of this policy is to provide guidance on when digital signatures can
 
 ## Scope
 
-This policy applies to all Infinity Works Consulting employees, contractors, and other agents conducting Infinity Works Consulting busines.
+This policy applies to all Opus Works Group employees, contractors, and other agents conducting Opus Works Group business.
 
-This policy applies only to digitally signed documents and correspondence within Infinity Works and not to electronic materials sent to or received from non-Infinity Works Consulting affiliated persons or organisations.
+This policy applies only to digitally signed documents and correspondence within Opus Works and not to electronic materials sent to or received from non-Opus Works Group affiliated persons or organisations.
 
 ## Policy
 
