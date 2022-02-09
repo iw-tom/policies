@@ -30,4 +30,4 @@ In general, employees are advised to refrain from letting personal and/or financ
 Note: The same principles apply to the company in regards to its clients. When applicable, we are committed to not offer services or form partnerships with companies who are in direct competition with one of our existing clients.
 
 ## Disciplinary Consequences
-In cases when a conflict of interest is deliberately concealed or when a solution cannot be found, disciplinary action may be invoked up to and including terminati
+In cases when a conflict of interest is deliberately concealed or when a solution cannot be found, disciplinary action may be invoked up to and including termination.
