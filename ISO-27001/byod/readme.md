@@ -1,13 +1,13 @@
 # Bring Your Own Device (BYOD) Policy
-Infinity Works grants its employees the privilege of purchasing and using computing devices of their choosing at work for their convenience. Infinity Works reserves the right to revoke this privilege if users do not abide by the policies and procedures outlined below.
+Opus Works grants its employees the privilege of purchasing and using computing devices of their choosing at work for their convenience. Opus Works reserves the right to revoke this privilege if users do not abide by the policies and procedures outlined below.
 
-This policy is intended to protect the security and integrity of Infinity Works's data and technology infrastructure. Limited exceptions to the policy may occur due to variations in devices and platforms.
+This policy is intended to protect the security and integrity of Opus Works's data and technology infrastructure. Limited exceptions to the policy may occur due to variations in devices and platforms.
 
-Infinity Works employees must agree to the terms and conditions set forth in this policy in order to be able to connect their devices to the company network.
+Opus Works employees must agree to the terms and conditions set forth in this policy in order to be able to connect their devices to the company network.
 
 ## Acceptable Use
-* Infinity Works defines acceptable business use as activities that directly or indirectly support the business.
-* Infinity Works defines acceptable personal use on company time as reasonable and limited personal communication or recreation, such as reading or game playing.
+* Opus Works defines acceptable business use as activities that directly or indirectly support the business.
+* Opus Works defines acceptable personal use on company time as reasonable and limited personal communication or recreation, such as reading or game playing.
 * Employees are to refrain from accessing certain websites / media during work hours, while connected to the corporate network at the discretion of the company.
 * Devices may not be used at any time to: 
     * Store or transmit illegal materials
@@ -38,11 +38,11 @@ In order to bring your own device and use it for work purposes, the device must 
 * In the event of termination of employment, the employee must remove all company data and software owned by the company from their personal device. See the [Leaving Policy](../leaving/readme.md) for more details.
 
 ## Risks/Liabilities/Disclaimers
-* Infinity Works reserves the right to disconnect devices or disable services without notification.
+* Opus Works reserves the right to disconnect devices or disable services without notification.
 * Lost or stolen devices must be reported to the company within 24 hours so that attempts to contact are not made. Employees are responsible for notifying their mobile carrier immediately upon loss of a device.
 * Employees are expected to use their devices in an ethical manner at all times, and adhere to the company’s acceptable use policy as outlined above.
 * Employees are personally liable for all costs associated with their devices.
-* The employee assumes full liability for the risk of the device becoming inoperable or damaged while carrying out work for Infinity Works, e.g. by dropping the device, or the device being hacked.
-* Infinity Works reserves the right to take appropriate disciplinary action up to and including termination for noncompliance with this policy.
+* The employee assumes full liability for the risk of the device becoming inoperable or damaged while carrying out work for Opus Works, e.g. by dropping the device, or the device being hacked.
+* Opus Works reserves the right to take appropriate disciplinary action up to and including termination for noncompliance with this policy.
 
 [back](../README.md#a-z-policies)
