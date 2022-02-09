@@ -2,13 +2,13 @@
 
 ## Overview
 
-As an organisation Infinity Works has a responsibility to protect the integrity and confidentiality of personal data held by us with regard to our clients, employees and partners. Individual employees also have that obligation with regards to unauthorised disclosure of data whether it is oral, printed, hand-written or computer based.
+As an organisation Opus Works has a responsibility to protect the integrity and confidentiality of personal data held by us with regard to our clients, employees and partners. Individual employees also have that obligation with regards to unauthorised disclosure of data whether it is oral, printed, hand-written or computer based.
 
 ## Purpose
 
-This policy has been written to provide the necessary information to Infinity Works employees and contractors detailing their duties under the Data Protection Act 1998 and Record Retention procedures. 
+This policy has been written to provide the necessary information to Opus Works employees and contractors detailing their duties under the Data Protection Act 1998 and Record Retention procedures. 
 
-This policy has also been written to set out the standards expected by Infinity Works employees and contractors in relation to processing of personal data and safeguarding individual’s rights.
+This policy has also been written to set out the standards expected by Opus Works employees and contractors in relation to processing of personal data and safeguarding individual’s rights.
 
 The Data Protection Act 1998 has two core purposes:
 
@@ -25,7 +25,7 @@ Please see record retention schedule at the end of this Policy.
 
 ### Destruction and Disposal
 
-To ensure compliance with the Data Protection Act 1998, all information, in any format, must be destroyed after the retention period from any Infinity Works location. All information, in any format held by Infinity Works, must be destroyed in a way which does not breach the confidentiality of our employees, contractors and customers.
+To ensure compliance with the Data Protection Act 1998, all information, in any format, must be destroyed after the retention period from any Opus Works location. All information, in any format held by Opus Works, must be destroyed in a way which does not breach the confidentiality of our employees, contractors and customers.
 
 All office paperwork for destruction should be shredded. Other paper can be disposed of in the bins provided in offices as long as it contains no sensitive or identifiable information – if in any doubt then it must be shredded.
 
