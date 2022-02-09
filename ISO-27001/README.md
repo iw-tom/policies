@@ -1,9 +1,4 @@
-# Infinity Works - Information Security Management System
-
-## Overview
-OK, now before you panic about the sheer volume of reading that lays ahead of you we do actually want you to take this a little seriously. As Ron would say "it's kind of a big deal!"
-
-So grab a cuppa, sit comfortably and start reading. 
+# Opus Works - Information Security Management System
 
 ## Why are we implementing ISO27001?
 For one it'll make sure we don't get into any unnecessary trouble and perhaps do something accidental that might implicate a person, our company or a client. 
@@ -35,19 +30,14 @@ This contains all of the policies which make up the Information Management Syste
 ## The Process
 * The ISMS Committee are responsible for maintaining and updating the policies.
 * This committee meets at least quarterly and reviews all policies annually.
-* The ISMS Committee requires one Director and two Principal Consultants to be actively engaged to approve any matters affecting Security policies and personnel
+* The ISMS Committee requires at least one Director to be actively engaged to approve any matters affecting Security policies and personnel
 
 ## The ISMS Committee 
 Group Members:
-* Directors - Paul Henshaw, Matt Gaffney, Dan Rathbone, Tom Walton, Mike Bates & Mat Barrow
-* ISMS Manager (acting) - Steve Anderson
-* Legal Counsel - Clare Mackintosh
-* Board Members (nominated): 
-   * Leeds - Steve Anderson, Neil Dunlop, Ed Marshall & Clem Pickering
-   * Manchester - David Postle & Adrian Hesketh
-   * London - Neil Jennings, Paul Lucas, Rob Whittick & Richard Allen
+* Directors - Tom Walton, Rob Symons, Kate Walton
+* ISMS Manager (acting) - Tom Walton
 
-Contact Email: isms@infinityworks.com 
+Contact Email: isms@opus.works 
 
 Information Security Roles and Responsibilities [view here](security#information-security-roles-and-responsibilities)
 
@@ -55,10 +45,7 @@ Information Security Roles and Responsibilities [view here](security#information
 In the event of an incident please inform the ISMS Manager who will log all incidents as per the [Security Incident Reporting Policy](securityincidentreporting/readme.md) 
 
 ## Raising Policy Issues
-Feel free to raise issues for the ISMS Committee to discuss via (in order of preference):
-   * Github Pull Requests - https://github.com/infinityworks/isms
-   * Github Issues
-   * Emails to isms@infinityworks.com
+Feel free to raise issues for the ISMS Committee to discuss via: isms@opus.works
 
 ## A-Z Policies
 
@@ -102,9 +89,9 @@ Feel free to raise issues for the ISMS Committee to discuss via (in order of pre
 ## Acceptance Form 
 (to complete this review please click one of the relevant links below )
 
-* Permanent Employee [click here](https://docs.google.com/forms/d/e/1FAIpQLSfyqxcy6PcsnT7rakh18dXckpDsXL4fmO4k7snyCvsWGZ0Kew/viewform) 
+* Permanent Employee TBC - Form to be added
 
-* Contractor Employee [click here ](https://docs.google.com/forms/d/e/1FAIpQLSd2QfbOqf6mSP8VnwFziG9DgzXz-1FKsB2E8QL6fSY13IryvA/viewform)
+* Contractor Employee TBC - Form to be added
 
 <br><br><br>
 [Back to the top](./README.md)
