@@ -2,7 +2,7 @@
 ## Policy brief & purpose
 
 Our Employee Code of Conduct company policy outlines our expectations regarding employees’ behaviour towards their colleagues, supervisors and overall organisation. 
-We promote freedom of expression and open communication. But we expect all employees to follow our code of conduct. They should avoid offending, participating in serious disputes and disrupting our workplace. We also expect them to foster a well-organized, respectful and collaborative environment.
+We promote freedom of expression and open communication. But we expect all employees to follow our code of conduct. They should avoid offending, participating in serious disputes and disrupting our workplace. We also expect them to foster a well-organised, respectful and collaborative environment.
 
 ## Scope
 This policy applies to all our employees regardless of employment agreement or rank. 
@@ -59,7 +59,7 @@ All employees must be open for communication with their colleagues, supervisors 
   
 We expect employees to not abuse their employment benefits. This can refer to time off, insurance, facilities, subscriptions or other benefits our company offers.
 
-  * [Policies](policies.infinityworks.com)
+  * [Policies](policies.opus.works)
   
 All employees should read and follow our company policies. If they have any questions, they should ask their managers or People Operations.
 
@@ -68,8 +68,7 @@ Our company may have to take disciplinary action against employees who repeatedl
 Possible consequences include:
 * Demotion.
 * Reprimand.
-* Suspension or termination for more serious offenses.
+* Suspension or termination for more serious offences.
 * Detraction of benefits for a definite or indefinite time.
 
 We may take legal action in cases of corruption, theft, embezzlement or other unlawful behaviour.
- 
