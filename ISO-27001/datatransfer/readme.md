@@ -74,8 +74,8 @@ significant numbers of records.
 in the accompanying message. Filename or subject line must not reveal the
 full contents of attachments or disclose any sensitive personal data.
 
-#### 4.2. Via standard email “@infinityworks.com”
-When sending information internally between “infinityworks.com” addresses, this is
+#### 4.2. Via standard email “@Opusworks.com”
+When sending information internally between “Opusworks.com” addresses, this is
 already secure and does not require any additional actions.
 - All password(s) assigned to encrypted documents must conform to the
 minimum corporate Password Policy.
