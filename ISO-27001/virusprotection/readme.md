@@ -6,7 +6,7 @@ To establish requirements and practices which must be met by to ensure effective
 
 ## Scope
 
-Applies to all employees of Infinity Works.
+Applies to all employees of Opus Works.
 
 ## Policy
 
@@ -18,7 +18,7 @@ All networks should be considered insecure and possibly hostile. Users must enab
 
 Users should employ network egress and ingress monitoring tools on their workstations (e.g. Little Snitch on OSX, Zone Alarm Firewall on Windows) to ensure that they understand which programs on their workstations are connecting to the Internet and can make an informed decision as to whether to allow that communication to occur.
 
-Infinity Works uses a hosted email service which protects our users from unsolicited messages and malicious software.
+Opus Works uses a hosted email service which protects our users from unsolicited messages and malicious software.
 
 ## Prevention of malicious code problems
 
@@ -35,8 +35,8 @@ Infinity Works uses a hosted email service which protects our users from unsolic
 
 ## Detection
 
-* Any activities with the intention to create and/or distribute malicious programs within Infinity Works are prohibited without prior permission from the ISMS Committee.
-* Virus-infected computers must be removed from the network until they are verified as virus-free. If a virus is detected on your workstation and the anti-virus software can not eliminate the virus, contact the Security Comittee.
+* Any activities with the intention to create and/or distribute malicious programs within Opus Works are prohibited without prior permission from the ISMS Committee.
+* Virus-infected computers must be removed from the network until they are verified as virus-free. If a virus is detected on your workstation and the anti-virus software can not eliminate the virus, contact the Security Committee.
 
 ## Penalties
 
