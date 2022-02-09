@@ -4,7 +4,7 @@ Our IT and communications systems are intended to promote effective communicatio
 ## Equipment Security and Passwords
 You are responsible for the security of the equipment allocated to or used by you, and you must not allow it to be used by anyone other than in accordance with this policy. You should use passwords on all IT equipment which you should keep confidential.  You must only log on to our systems using your own username and password.  You must not use another persons’ username and password or allow anyone else to log on using your username and password.  
 You should not delete, destroy or modify existing systems, programs, information or data (except as authorised in the proper performance of your duties).  
-Inform your Manager and the [ISO Committee](ISMS@infinityworks.com) immediately if you suspect your computer may have a virus. 
+Inform your Manager and the [ISO Committee](ISMS@opus.works) immediately if you suspect your computer may have a virus. 
 
 ## Email and Internet 
 Remember that emails can be used in legal proceedings and that even deleted emails may remain on the system and be capable of being retrieved.  You must not send abusive, obscene, discriminatory, racist, derogatory, defamatory, pornographic or otherwise inappropriate emails.   
