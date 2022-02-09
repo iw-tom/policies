@@ -1,11 +1,11 @@
 # Employee and Contractor Privacy Notice
 
 ## What is the purpose of this document?
->Infinity Works is committed to protecting the privacy and security of your personal information.
+>Opus Works is committed to protecting the privacy and security of your personal information.
 >This privacy notice describes how we collect and use personal information about you during and after your working relationship with us, in accordance with the General Data Protection Regulation (GDPR).
 >It applies to all employees and contractors.
 
-Infinity Works is a “data controller”. This means that we are responsible for deciding how we hold
+Opus Works is a “data controller”. This means that we are responsible for deciding how we hold
 and use personal information about you. We are required under data protection legislation to notify
 you of the information contained in this privacy notice.
 
@@ -249,7 +249,7 @@ Under certain circumstances, by law you have the right to:
 - Request the restriction of processing of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
 - Request the transfer of your personal information to another party.
 
-If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact sar@infinityworks.com.
+If you want to review, verify, correct or request erasure of your personal information, object to the processing of your personal data, or request that we transfer a copy of your personal information to another party, please contact sar@Opusworks.com.
 
 **No fee usually required**
 You will not have to pay a fee to access your personal information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
@@ -258,7 +258,7 @@ You will not have to pay a fee to access your personal information (or to exerci
 We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it.
 
 ##Right to withdraw consent
-In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact sar@infinityworks.com . Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
+In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact sar@Opusworks.com . Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
 
 ##Data Protection Officer
 We have appointed a data protection officer (DPO) to oversee compliance with this privacy notice. If you have any questions about this privacy notice or how we handle your personal information, please contact the DPO. You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues.
@@ -266,6 +266,6 @@ We have appointed a data protection officer (DPO) to oversee compliance with thi
 ##Changes to this privacy notice
 We reserve the right to update this privacy notice at any time, and we will provide you with a new privacy notice when we make any substantial updates. We may also notify you in other ways from time to time about the processing of your personal information.
 
-**If you have any questions about this privacy notice, please contact dataprotection@infinityworks.com.**
+**If you have any questions about this privacy notice, please contact dataprotection@Opusworks.com.**
 
 [back](../README.md#a-z-policies)
