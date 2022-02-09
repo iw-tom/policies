@@ -1,7 +1,7 @@
 #  Business Continuity
 This policy outlines how we react to external events (e.g loss of access to our offices due to a fire) in order to continue to conduct business.
 
-#### To view the Infinity Works Business Continuity Plan [click here](https://docs.google.com/document/d/1UBDPaf8G7Jacxn8OGg8r1DvrjJDrkHleyNMx7GQdqQk/edit#) 
+#### To view the Opus Works Business Continuity Plan [click here](https://docs.google.com/) - To add in
 
 # General principles
 * We do not rely on the availability of our office building
