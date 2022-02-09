@@ -2,21 +2,21 @@
 
 ## Overview
 
-Infinity Works is committed to ensuring that all software within the scope of the policy is fully licensed for the purpose for which it is being used. It is recognised that both deliberate and non-deliberate use of unlicensed software is a serious breach of intellectual property rights and could expose Infinity Works to substantial fines, physical attack on IT systems through the inadvertent introduction of viruses and loss of reputation.
+Opus Works is committed to ensuring that all software within the scope of the policy is fully licensed for the purpose for which it is being used. It is recognised that both deliberate and non-deliberate use of unlicensed software is a serious breach of intellectual property rights and could expose Opus Works to substantial fines, physical attack on IT systems through the inadvertent introduction of viruses and loss of reputation.
 
 ## Purpose
 
 The purpose of this policy is to ensure that:
-* All software used by Infinity Works staff is correctly licensed;
-* All software used on equipment owned or leased by Infinity Works is correctly licensed;
-* Software licensed by Infinity Works is not copied or otherwise used outside of the scope of the licence agreement.
-* To raise awareness of the need for correct software licensing throughout Infinity Works
+* All software used by Opus Works staff is correctly licensed;
+* All software used on equipment owned or leased by Opus Works is correctly licensed;
+* Software licensed by Opus Works is not copied or otherwise used outside of the scope of the licence agreement.
+* To raise awareness of the need for correct software licensing throughout Opus Works
 
 ## Scope
 
 This policy applies to:
-* All Infinity Works Consulting employees and contractors.
-* All computerised equipment capable of running software where these systems are owned by Infinity Works. 
+* All Opus Works Consulting employees and contractors.
+* All computerised equipment capable of running software where these systems are owned by Opus Works. 
 
 ## Policy
 
@@ -31,7 +31,7 @@ This policy applies to:
 
 ### Compliance Measurement
 
-The Infinity Works ISMS Committee will verify compliance to this policy through various methods, including but not limited to, periodic random audit of Infinity Works equipment and automated scanning of hardware assets to ensure that no unauthorised software is installed.
+The Opus Works ISMS Committee will verify compliance to this policy through various methods, including but not limited to, periodic random audit of Opus Works equipment and automated scanning of hardware assets to ensure that no unauthorised software is installed.
 
 ### Exceptions
 
@@ -39,7 +39,7 @@ The Infinity Works ISMS Committee will verify compliance to this policy through 
 
 ### Non-Compliance
 
-* Following the discovery of unlicensed software, the Infinity Works ISMS Committee will ensure immediate removal of the unlicensed software
+* Following the discovery of unlicensed software, the Opus Works ISMS Committee will ensure immediate removal of the unlicensed software
 * In the event that there is a business need for the software that has been removed the user should apply for the software to be procured through standard channels.
 * An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment. 
 
