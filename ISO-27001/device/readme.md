@@ -5,7 +5,7 @@ All Employees are required to adhere to the following policy regarding company l
 
 Company Laptops are defined as laptops purchased by the employer and given to an employee for business use.
 
-Laptops given to employees by Infinity Works remain the property of Infinity Works and must always be treated in this manner.
+Laptops given to employees by Opus Works remain the property of Opus Works and must always be treated in this manner.
 
 Employees agree to do the following:
 * Report loss or theft to the ISMS Committee immediately.
@@ -14,12 +14,12 @@ Employees agree to do the following:
    * Complying with relevant policies, e.g. [Virus Protection Policy](../virusprotection/readme.md), [Password Policy](../password/readme.md).
    * Ensuring that disk encryption is applied to the machine, e.g. FileVault for OSX, Bitlocker for Windows, dm_crypt for Linux.
    * Ensuring that a personal firewall is enabled and configured (see  [Virus Protection Policy](../virusprotection/readme.md))
-* To return all company property, including Company Laptops, if they are no longer employed by Infinity Works.
+* To return all company property, including Company Laptops, if they are no longer employed by Opus Works.
 
 ## Repairing A Faulty Device
 
-Any laptop or electronic device owned by Infinity Works that is reported to the Admin Team as faulty or in need of repair will 
-be expected to have no information stored locally that would be of security risk to the company or any client. All necessary content should be saved to a secure location (e.g. the Infinity Works G-Drive).  If in doubt speak with the ISMS Manager. 
+Any laptop or electronic device owned by Opus Works that is reported to the Admin Team as faulty or in need of repair will 
+be expected to have no information stored locally that would be of security risk to the company or any client. All necessary content should be saved to a secure location (e.g. the Opus Works G-Drive).  If in doubt speak with the ISMS Manager. 
 
 
 ## Personal Laptops
