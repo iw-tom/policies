@@ -1,6 +1,6 @@
 # Whistleblowing
 
-We are committed to conducting our business with honesty and integrity and we expect all Infinity Works
+We are committed to conducting our business with honesty and integrity and we expect all Opus Works
 colleagues to maintain high standards. However we want to ensure that if there is any wrong doing that it is
 identified and stopped before it negatively impacts on the business, the people within it or anyone else. Any
 suspected wrong doing should be reported as soon as possible. This policy covers all employees, directors and
@@ -12,7 +12,7 @@ and any breach of legal or professional obligations.
 
 ## How to raise a concern
 We hope that in many cases you will be able to raise any concerns with your Manager. However, where you prefer
-not to raise it with your Manager for any reason, you should contact [The People Team](people@infinityworks.com).
+not to raise it with your Manager for any reason, you should contact a Director.
 
 We will arrange a meeting with you as soon as possible to discuss your concern. You may bring a colleague to any
 meetings under this policy. Your companion must respect the confidentiality of your disclosure or any subsequent
