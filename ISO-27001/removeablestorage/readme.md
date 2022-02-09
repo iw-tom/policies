@@ -2,17 +2,17 @@
 
 ## Purpose
 
-The purpose of this policy is to minimize the risk of loss or exposure of sensitive information maintained by Infinity Works.
+The purpose of this policy is to minimize the risk of loss or exposure of sensitive information maintained by Opus Works.
 
 ## Scope
 
-This policy covers all computers and servers operating in Infinity Works.
+This policy covers all computers and servers operating in Opus Works.
 
 ## Policy
 
 - The use of removable media is highly discouraged.
 - Sensitive information should be stored on removable media only when required in the performance of your assigned duties or when providing information required by other state or government agencies. 
-- When sensitive information is stored on removable media, it must be encrypted in accordance with the Infinity Works Computing Policy.
+- When sensitive information is stored on removable media, it must be encrypted in accordance with the Opus Works Computing Policy.
 
 ## Compliance
 
