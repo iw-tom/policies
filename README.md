@@ -1,10 +1,10 @@
-# Infinity Works - Policies
+# Opus Works - Policies
 
 ## Overview
 
-OK, now before you panic about the sheer volume of reading that lays ahead of you we do actually want you to take this a little seriously. As Ron would say “it’s kind of a big deal!”
+These pages contain the policies that Opus Works employees need to read and understand in order to comply with our obiligations as an employer to provide a safe, fair (and fun) environment to work in!
 
-So grab a cuppa, sit comfortably and start reading.
+As we work with a number of clients on sensitive projects it is necessary to make sure that our company and project information is stored and retrieved securely, which is why we have implemented ISO27001.  We also need to make sure that the company operates effectively and effectively, our ISO9001.
 
 ## Why are we implementing ISO27001?
 
@@ -20,8 +20,8 @@ Sound good? OK let’s get started!!
 
 ## Why are we implementing ISO9001?
 
-Infinity Works Consulting Ltd (the ‘Organisation’) aims to provide defect free products and services to its customers on time and within budget.
+Opus Works Group Ltd (the ‘Organisation’) aims to deliver its projects to its customers on time and within budget.
 
-The Organisation operates a Quality Management System that has gained BS EN ISO 9001 : 2015 certification, including aspects specific to the provision of IT services and software development.
+The Organisation operates a Quality Management System that has gained BS EN ISO 9001 : 2015 certification, including aspects specific to the provision of Planning and Development Management.
 
 > [ISO 9001](/ISO-9001)
