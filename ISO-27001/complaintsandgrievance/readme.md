@@ -2,11 +2,11 @@
 
 ## Overview
 
-This procedure explains what employees should do if they have a grievance, including if they feel they are being bullied, harassed or victimised, and how Infinity Works will deal with such issues. 
+This procedure explains what employees should do if they have a grievance, including if they feel they are being bullied, harassed or victimised, and how Opus Works will deal with such issues. 
 
 ## Purpose
 
-We want Infinity Works to be a great place to work and aim to create a positive work environment.  If you have a grievance about something or someone at Infinity Works you should let us know and we’ll try to solve it as soon as we can.  Most grievances can be resolved quickly and informally though discussion with your Manager.  However, if this does not resolve the problem you may initiate the formal procedure set out here.
+We want Opus Works to be a great place to work and aim to create a positive work environment.  If you have a grievance about something or someone at Opus Works you should let us know and we’ll try to solve it as soon as we can.  Most grievances can be resolved quickly and informally though discussion with your Manager.  However, if this does not resolve the problem you may initiate the formal procedure set out here.
 
 ## Scope
 
